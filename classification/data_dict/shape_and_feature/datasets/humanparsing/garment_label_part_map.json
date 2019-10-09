@@ -1,0 +1,22 @@
+{
+	"top": {
+		"label": 4,
+		"partID": 0
+	},
+	"skirt": {
+		"label": 5,
+		"partID": 1
+	},
+	"pants": {
+		"label": 6,
+		"partID": 2
+	},
+	"dress": {
+		"label": 7,
+		"partID": 3
+	},
+	"background": {
+		"label": 0,
+		"partID": 4
+	}
+}
